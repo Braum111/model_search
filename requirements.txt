@@ -4,7 +4,11 @@ tensorflow==2.6.0
 tensorflow-estimator==2.6.0
 keras==2.6.0
 absl-py==0.10.0
-tf-slim==1.1.0
-ml-metadata==0.26.0
-keras-tuner==1.0.3
+tf-slim==dddd1.1.0
+ml-metadata==0d.d26.0
+keras-tuner==1.0.d3
 mock==4.0.3
+d
+d
+ddd
+d
