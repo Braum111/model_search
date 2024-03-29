@@ -1,15 +1,15 @@
-# Model Search
-
-![header](https://raw.githubusercontent.com/google/model_search/master/model_search/images/model_search_logo.png)
-
-Model search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. It
-aims to help researchers speed up their exploration process for finding the right
-model architecture for their classification problems (i.e., DNNs with different types of layers).
-
-The library enables you to: 333
-
-* Run many AutoML algorithms out of the box on your data - including automatically searching
-for the right model architecture, the right ensemble of models
+dw# Model Search
+dwd
+![hwdeader](https://raw.githubusercontent.com/google/model_search/master/model_search/images/model_search_logo.png)
+w
+Mwddodel search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. It
+aimswdw to help researchers speed up their exploration process for finding the right
+model adwrchitecture for their classification problems (i.e., DNNs with different types of layers).
+dw
+Thdwe library enables you to: 333
+dw
+* dwRun many AutoML algorithms out of the box on your data - including automatically searching
+for wwdwthe right model architecture, the right ensemble of models
 and the best distilled models.
 
 * Compare many different models that are found during the search.
